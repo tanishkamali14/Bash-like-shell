@@ -1,0 +1,19 @@
+{
+  "name": "Bash-like-shell",
+  "version": "16.13.0",
+  "description": "Assignment for NodeJS Developer Internship at Atri Labs",
+  "main": "shell.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tanishkamali14/Bash-like-shell"
+  },
+  "author": "Tanishka Mali",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/tanishkamali14/Bash-like-shell/issues"
+  },
+  "homepage": "https://github.com/tanishkamali14/Bash-like-shell/blob/main/README.md"
+}
